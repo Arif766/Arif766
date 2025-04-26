@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Arif766
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on web development
+- 🌱 I’m currently learning Machine Learning 
+- 💞️ I’m looking to collaborate Machine Learning Projects
 - 📫 How to reach me 
 
 <!---
